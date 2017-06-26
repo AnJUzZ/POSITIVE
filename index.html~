@@ -70,7 +70,7 @@
             <p>POSITIVE</p>
             <h3 class="heading" style="font-size: 34px">" Let's take a leave from books and be creative "</h3>
             <p>Be prepared for tomorrow</p>
-            <footer><a class="btn inverse" href="#">  SignUp  </a></footer>
+            <footer><a class="btn" href="#">  SignUp  </a></footer>
           </article>
         </li>
         <li>
@@ -86,7 +86,7 @@
             <p>POSITIVE</p>
             <h3 class="heading">Get noticed worldwide</h3>
             <p>Show others what you got</p>
-            <footer><a class="btn inverse" href="#">  SignUp  </a></footer>
+            <footer><a class="btn" href="#">  SignUp  </a></footer>
           </article>
         </li>
       </ul>
@@ -328,8 +328,8 @@
           Street Name &amp; Number, Town, Postcode/Zip
           </address>
         </li>
-        <li><i class="fa fa-phone"></i> +00 1800 661620</li>
-        <li><i class="fa fa-envelope-o"></i> positive29@gmail.com</li>
+        <li><i class="fa fa-phone"></i> +00 (123) 456 7890</li>
+        <li><i class="fa fa-envelope-o"></i> info@domain.com</li>
       </ul>
       <ul class="faico clear">
         <li><a class="faicon-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
@@ -378,9 +378,9 @@
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <div class="wrapper row5">
-  <div id="copyleft" class="hoc clear"> 
+  <div id="copyright" class="hoc clear"> 
     <!-- ################################################################################################ -->
-    <p class="fl_left">Copyleft  &copy; 2017 - All Rights Reserved - <a href="#">Domain Name</a></p>
+    <p class="fl_left">Copyright &copy; 2017 - All Rights Reserved - <a href="#">Domain Name</a></p>
     <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
     <!-- ################################################################################################ -->
   </div>
